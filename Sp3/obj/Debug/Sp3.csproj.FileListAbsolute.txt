@@ -1,0 +1,22 @@
+C:\Users\franc\OneDrive\Escritorio\PROGRAMACION\ANALISTA EN SISTEMAS\SEMESTRE 5\FINAL-PROGRAMACION-3\PRACTICA\Sp3\bin\Debug\Sp3.exe.config
+C:\Users\franc\OneDrive\Escritorio\PROGRAMACION\ANALISTA EN SISTEMAS\SEMESTRE 5\FINAL-PROGRAMACION-3\PRACTICA\Sp3\bin\Debug\Sp3.exe
+C:\Users\franc\OneDrive\Escritorio\PROGRAMACION\ANALISTA EN SISTEMAS\SEMESTRE 5\FINAL-PROGRAMACION-3\PRACTICA\Sp3\bin\Debug\Sp3.pdb
+C:\Users\franc\OneDrive\Escritorio\PROGRAMACION\ANALISTA EN SISTEMAS\SEMESTRE 5\FINAL-PROGRAMACION-3\PRACTICA\Sp3\obj\Debug\Sp3.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Escritorio\PROGRAMACION\ANALISTA EN SISTEMAS\SEMESTRE 5\FINAL-PROGRAMACION-3\PRACTICA\Sp3\obj\Debug\Sp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\franc\OneDrive\Escritorio\PROGRAMACION\ANALISTA EN SISTEMAS\SEMESTRE 5\FINAL-PROGRAMACION-3\PRACTICA\Sp3\obj\Debug\Sp3.Form1.resources
+C:\Users\franc\OneDrive\Escritorio\PROGRAMACION\ANALISTA EN SISTEMAS\SEMESTRE 5\FINAL-PROGRAMACION-3\PRACTICA\Sp3\obj\Debug\Sp3.Properties.Resources.resources
+C:\Users\franc\OneDrive\Escritorio\PROGRAMACION\ANALISTA EN SISTEMAS\SEMESTRE 5\FINAL-PROGRAMACION-3\PRACTICA\Sp3\obj\Debug\Sp3.csproj.GenerateResource.cache
+C:\Users\franc\OneDrive\Escritorio\PROGRAMACION\ANALISTA EN SISTEMAS\SEMESTRE 5\FINAL-PROGRAMACION-3\PRACTICA\Sp3\obj\Debug\Sp3.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Escritorio\PROGRAMACION\ANALISTA EN SISTEMAS\SEMESTRE 5\FINAL-PROGRAMACION-3\PRACTICA\Sp3\obj\Debug\Sp3.exe
+C:\Users\franc\OneDrive\Escritorio\PROGRAMACION\ANALISTA EN SISTEMAS\SEMESTRE 5\FINAL-PROGRAMACION-3\PRACTICA\Sp3\obj\Debug\Sp3.pdb
+C:\Users\valen\OneDrive\Escritorio\Sp3\bin\Debug\Sp3.exe.config
+C:\Users\valen\OneDrive\Escritorio\Sp3\bin\Debug\Sp3.exe
+C:\Users\valen\OneDrive\Escritorio\Sp3\bin\Debug\Sp3.pdb
+C:\Users\valen\OneDrive\Escritorio\Sp3\obj\Debug\Sp3.csproj.AssemblyReference.cache
+C:\Users\valen\OneDrive\Escritorio\Sp3\obj\Debug\Sp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\valen\OneDrive\Escritorio\Sp3\obj\Debug\Sp3.Form1.resources
+C:\Users\valen\OneDrive\Escritorio\Sp3\obj\Debug\Sp3.Properties.Resources.resources
+C:\Users\valen\OneDrive\Escritorio\Sp3\obj\Debug\Sp3.csproj.GenerateResource.cache
+C:\Users\valen\OneDrive\Escritorio\Sp3\obj\Debug\Sp3.csproj.CoreCompileInputs.cache
+C:\Users\valen\OneDrive\Escritorio\Sp3\obj\Debug\Sp3.exe
+C:\Users\valen\OneDrive\Escritorio\Sp3\obj\Debug\Sp3.pdb
